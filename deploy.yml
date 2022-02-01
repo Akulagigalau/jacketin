@@ -6,6 +6,6 @@ jobs:
         with:
           usedocker: true
           stack: "container"
-          region: "eu"
+          region: "us"
         env:
           production_environment: true
