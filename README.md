@@ -1,6 +1,6 @@
 # Jackett hosted on Heroku container
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/akulagigalau2/jacketin) #Revived
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Akulagigalau/jacketin) #Revived
 
 ## Instructions
 Clone this repo in your machine, and use those coomands after install de [Heroku CLI](https://devcenter.heroku.com/articles/heroku-cli)
